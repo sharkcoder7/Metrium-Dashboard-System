@@ -1,0 +1,21 @@
+{
+    "main.js": {
+        "files": ["header.part.js", "apply.part.js", "base/dashboard.part.js",
+            "base/global_commits.part.js", "base/global_sales.part.js",
+            "base/line_chart.part.js", "base/log.part.js",
+            "base/messages.part.js", "base/pending.part.js",
+            "base/progress.part.js", "base/pusher.part.js",
+            "base/video_preview.part.js", "footer.part.js"
+        ]
+    },
+    "main-min.js": {
+        "files": ["header.part.js", "apply.part.js", "base/dashboard.part.js",
+            "base/global_commits.part.js", "base/global_sales.part.js",
+            "base/line_chart.part.js", "base/log.part.js",
+            "base/messages.part.js", "base/pending.part.js",
+            "base/progress.part.js", "base/pusher.part.js",
+            "base/video_preview.part.js", "footer.part.js"
+        ],
+        "minify": "javascript"
+    }
+}

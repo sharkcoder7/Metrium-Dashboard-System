@@ -1,0 +1,16 @@
+include src/metrium/metrium.wsgi
+recursive-include src/metrium/static/css *
+recursive-include src/metrium/static/images *.png
+recursive-include src/metrium/static/images *.ico
+recursive-include src/metrium/static/images/logos *.png
+recursive-include src/metrium/static/js *.js
+recursive-include src/metrium/static/js *.join
+recursive-include src/metrium/static/js/base *.js
+recursive-include src/metrium/static/sounds *
+recursive-include src/metrium/templates *.tpl
+recursive-include src/metrium/templates/account *.tpl
+recursive-include src/metrium/templates/boards *.tpl
+recursive-include src/metrium/templates/config *.tpl
+recursive-include src/metrium/templates/debug *.tpl
+recursive-include src/metrium/templates/log *.tpl
+recursive-include src/metrium/templates/partials *.tpl

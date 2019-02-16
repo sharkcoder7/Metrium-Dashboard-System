@@ -1,0 +1,3 @@
+redis
+omni_api
+github_api_python
